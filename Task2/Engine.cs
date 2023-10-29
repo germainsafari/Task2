@@ -23,7 +23,7 @@ namespace Task2
         {
             this.Displacement = Displacement;
             this.TankCapacity = TankCapacity;
-            this.TankCapacity = TankCapacity;
+     
             
         }
         public double LitersToMPG(double litersPer100kms) 
