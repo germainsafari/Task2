@@ -19,7 +19,7 @@ namespace Task2
             this.FuelAmount = FuelAmount;
             this.DefaultTankCapacity = TankCapacity;
         }
-        public Engine(double Displacement, double fuelAmountdouble, double TankCapacity) 
+        public Engine(double Displacement, double fuelAmount, double TankCapacity) 
         {
             this.Displacement = Displacement;
             this.TankCapacity = TankCapacity;
